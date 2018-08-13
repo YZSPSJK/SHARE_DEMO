@@ -1,2 +1,2 @@
-# SHARE_DEMO
-通用的环境
+# share-java
+the background of the project
